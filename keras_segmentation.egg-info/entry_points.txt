@@ -1,2 +1,0 @@
-[console_scripts]
-keras_segmentation = keras_segmentation.__main__:main
